@@ -5,6 +5,7 @@ export default function Home() {
   <h1>Hola desde Next.js 🚀</h1>
   <h1>Esto es un nuevo commit 🚀</h1>
   <h1>Esto es un nuevo commit para AMPLIFY 🚀</h1>
+  <h1>Esto es un nuevo commit para AZURE 🚀</h1>
   </div>;
  
 }
